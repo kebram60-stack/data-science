@@ -1,3 +1,1 @@
-این بخش هنوز ناقص است
-<br>
-سوالاتش بین 40 تا 50 تا هستش
+http://altsafe.net/data-science/gse63577_prepared.csv
